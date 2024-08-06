@@ -2,7 +2,9 @@
 <div style="display: flex;">
   <div style="flex: 1;">
     # A passionate Software Engineer from India 🇮🇳:
-    - ✨About ME.<br>
+    <br>
+    <br>
+    ✨About ME.<br>
      </div>
   <div style="flex-shrink: 0;">
     <img class="coding-gif" align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VieHF2YXExcXh6ajIwZ203cDJocGRkcXBvbTN6aDFlY2JkcHBzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp"/>
