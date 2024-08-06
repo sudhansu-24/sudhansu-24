@@ -8,7 +8,7 @@
     <br>- 👯 I’m looking to collaborate on Web and AI Projects<br>
                     </div>
   <div style="flex-shrink: 0;">
-    <img class="coding-gif" align="right" alt="coding" height="200" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VieHF2YXExcXh6ajIwZ203cDJocGRkcXBvbTN6aDFlY2JkcHBzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp"/>
+    <img class="coding-gif" align="right" alt="coding" width="300" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
   </div>
 </div>
     <br>- 💬 Ask me about DSA, Web Devlopment.<br>
