@@ -2,23 +2,18 @@
 <div style="display: flex;">
   <div style="flex: 1;">
     # A passionate Software Engineer from India 🇮🇳:
-    - ✨About ME.<br><br>- 👯 I’m looking to collaborate on Web and AI Projects<br><br>- 💬 Ask me about DSA, Web Devlopment.<br>  <br>- 📫 How to reach me: **ssprusty98@gmail.com**<br><br>- ⚡ Fun fact **Doesn't Exist!!**<br><br>
-    I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
-  </div>
+    - ✨About ME.<br>
+     </div>
   <div style="flex-shrink: 0;">
     <img class="coding-gif" align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VieHF2YXExcXh6ajIwZ203cDJocGRkcXBvbTN6aDFlY2JkcHBzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp"/>
   </div>
 </div>
-<link rel="stylesheet" href="">
-<style>
-.coding-gif {
-  float: right;
-  margin-left: 20px; /* Adjust margin for spacing */
-  margin-top: 10px; /* Adjust margin for vertical alignment */
-}
-</style>
-
-
+    <br>- 👯 I’m looking to collaborate on Web and AI Projects<br>
+    <br>- 💬 Ask me about DSA, Web Devlopment.<br>
+    <br>- 📫 How to reach me: **ssprusty98@gmail.com**<br>
+    <br>- ⚡ Fun fact **Doesn't Exist!!**<br><br>
+    I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudhansu_24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhansushekhar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sudhansu_24) 
 
