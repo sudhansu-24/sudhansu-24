@@ -1,13 +1,13 @@
 ![logo](https://github.com/sudhansu-24/sudhansu-24/blob/main/banner.gif)
 <div style="display: flex;">
   <div style="flex: 1;">
-    # A passionate Software Engineer from India 🇮🇳:
-    <br>
-        </div>
+           </div>
   <div style="flex-shrink: 0;">
-    <img class="coding-gif" align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VieHF2YXExcXh6ajIwZ203cDJocGRkcXBvbTN6aDFlY2JkcHBzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp"/>
+    <img class="coding-gif" align="right" alt="coding" height="200" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VieHF2YXExcXh6ajIwZ203cDJocGRkcXBvbTN6aDFlY2JkcHBzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp"/>
   </div>
 </div>
+    # A passionate Software Engineer from India 🇮🇳:
+    <br>
     <br>
     ✨About ME.<br>
     <br>- 👯 I’m looking to collaborate on Web and AI Projects<br>
