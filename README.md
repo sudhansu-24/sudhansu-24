@@ -15,6 +15,7 @@
     <br>- 📫 How to reach me: **ssprusty98@gmail.com**<br>
     <br>- ⚡ Fun fact **Doesn't Exist!!**<br>
     <br>- 🐧 A linux Enthusiast(user)!!<br>
+    <br>
     I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
  
 ## 🌐 Socials:
