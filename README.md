@@ -11,7 +11,7 @@
     <img class="coding-gif" align="right" alt="coding" width="275" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
   </div>
 </div>
-    <br>- 💬 Ask me about DSA, Web Devlopment.<br>
+    <br>- 💬 Ask me about DSA, Web3/Blockchain.<br>
     <br>- 📫 How to reach me: **ssprusty98@gmail.com**<br>
     <br>- ⚡ Fun fact **Doesn't Exist!!**<br>
     <br>- 🐧 A linux Enthusiast(user)!!<br>
