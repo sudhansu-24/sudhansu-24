@@ -1,11 +1,11 @@
 ![logo](https://github.com/sudhansu-24/sudhansu-24/blob/main/banner.gif)
 <div style="display: flex;">
   <div style="flex: 1;">
-    # A passionate Software Engineer from India 🇮🇳:
+    # A Software Engineer from India 🇮🇳:
     <br>
     <br>
     ✨About ME.<br>
-    <br>- 👯 I’m looking to collaborate on Web and AI Projects<br>
+    <br>- 👯 I’m looking to collaborate on Web3 and AI Projects<br>
                     </div>
   <div style="flex-shrink: 0;">
     <img class="coding-gif" align="right" alt="coding" width="275" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
@@ -14,9 +14,9 @@
     <br>- 💬 Ask me about DSA, Web3/Blockchain.<br>
     <br>- 📫 How to reach me: **ssprusty98@gmail.com**<br>
     <br>- ⚡ Fun fact **Doesn't Exist!!**<br>
-    <br>- 🐧 A linux Enthusiast(user)!!<br>
-    <br>
-    I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
+    <br>- 🐧 A linux Enthusiast(Fedora user)!!<br>
+    <br>"Those who are crazy enough to think they can change the world are the ones who do."—Think of myself to be one of those<br>
+    I like experimenting with new technologies, building projects, and occassionally joining hackathons. ✨
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudhansu_24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhansushekhar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sudhansu_24) 
